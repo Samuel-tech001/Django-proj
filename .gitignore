@@ -1,0 +1,106 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+media/
+staticfiles/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Others
+*.bak
+*.swp
+*.tmp
+
+# Node
+node_modules/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Test
+junit.xml
+
+# Pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Black
+.pytest_cache/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Sphinx
+docs/_build/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Local settings
+local_settings.py
+
+# Database
+*.db
+*.db-journal
+
+# Backup
+*.bak
+
+# IDE
+.idea/
+*.iml
+
+# Mac
+*.DS_Store
+
+# Windows
+*.Thumbs.db
+
+# JetBrains
+*.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# System
+*.swp
+*.swo
+
+# Test
+.test
+
+# Misc
+*.orig
+
+# Secret
+secrets.json
